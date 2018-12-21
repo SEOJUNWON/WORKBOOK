@@ -19,6 +19,7 @@ public class stepDManager {
 			System.out.printf("7. 1차함수의 좌표\n");
 			System.out.printf("8. 2차함수의 좌표\n");
 			System.out.printf("9. 구구단 출력\n");
+			System.out.printf("10. 배타배수 출력\n");
 			System.out.printf("=>원하는 메뉴는?(0:exit) :");
 			menu = s.nextInt();
 			if(menu == 0) break;
